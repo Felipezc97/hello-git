@@ -1,3 +1,5 @@
+# CURSO DE GIT
+Version actual: 1.2.2
 # Tipos de cabeceras
 # Cabecera H1
 ## Cabecera H2
